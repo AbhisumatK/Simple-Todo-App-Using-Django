@@ -1,1 +1,1 @@
-# Simple-Todo-App-Using-Django
+# Simple-Todo-App-Using Django
